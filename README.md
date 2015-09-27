@@ -8,7 +8,6 @@ Instructions on using run_analysis.R
 2. set the working directory in R to the unziped folder location
 3. execute run_analysis.R
 4. the output tidyData.txt will be created in the working directory
-5. 
 
 
 
