@@ -10,7 +10,7 @@ train data : X_train y_train subject_train
 test data: X_test y_test subject_test
 for information regarding the meaning of each text file please refer to the readme file in the original zipped file.
 
-Next, for each variable train and test data are appended to get the complete dataset.
+Next, for each variable (X, Y and Subject) test data is appended to train data to get the complete dataset.
 
 After that, each variable is labeled for sanity purposes. For Y and Subject a generic name is used.
 For X variables the names can be read from features.txt file
